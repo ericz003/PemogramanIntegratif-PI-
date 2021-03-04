@@ -7,7 +7,7 @@ int main()
     char ulang;
   
     
-//awal:
+awal:
    cout<<"Program untuk menentukan bil positif atau negatif"<<endl;
     cout<<"Masukkan Angka : ";
     cin>>karakter;
@@ -33,7 +33,7 @@ int main()
     }
 
 
-  /*cout<<"Entry Data Lagi (Y/N) ?  ";
+  cout<<"Entry Data Lagi (Y/N) ?  ";
     cin>>ulang;
     cout<<endl;
     if(ulang=='Y'||ulang=='y'){
@@ -45,6 +45,6 @@ int main()
     akhir:
 
 
-    return 0;*/
+    return 0;
 
 }
